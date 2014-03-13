@@ -14,4 +14,8 @@ A boilerplate for quick newsletters templates.
 1. Hotmail
 1. Yahoo Mail
 1. Outlook
+
+## License
+ 
+[MIT License](http://felipefialho.mit-license.org/) © Luiz Felipe Tartarotti Fialho
  
