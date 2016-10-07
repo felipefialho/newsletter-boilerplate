@@ -5,7 +5,7 @@ A boilerplate for quick newsletters templates.
 ## How to use
 
 1. Open `index.html`
-1. Insert images in `\img` folder
+1. Insert images in `img/` folder
 1. Start hacking away
 
 ## Support
